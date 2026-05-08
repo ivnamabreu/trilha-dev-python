@@ -1,0 +1,7 @@
+print('IIIII' + '  ' + 'M   M' + '  ' + '  A  ')
+print('  I  ' + '  ' + 'MM MM' + '  ' + ' A A ')
+print('  I  ' + '  ' + 'MM MM' + '  ' + 'A   A')
+print('  I  ' + '  ' + 'M M M' + '  ' + 'AAAAA')
+print('  I  ' + '  ' + 'M   M' + '  ' + 'A   A')
+print('  I  ' + '  ' + 'M   M' + '  ' + 'A   A')
+print('IIIII' + '  ' + 'M   M' + '  ' + 'A   A')
