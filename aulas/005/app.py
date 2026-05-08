@@ -1,0 +1,5 @@
+ano_nascimento = input('Ano nascimento: ')
+print(type(ano_nascimento))
+idade = 2026 - int(ano_nascimento)
+print(type(idade))
+print(idade)
