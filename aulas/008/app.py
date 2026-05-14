@@ -1,0 +1,13 @@
+curso = 'Python é legal'
+print(curso)
+print(len(curso))
+print(curso.upper())
+print(curso.lower())
+print(curso)
+print(curso.find('P'))
+print(curso.find('p'))
+print(curso.find('legal'))
+print(curso.replace('legal' , 'muito legal'))
+print(curso)
+print('python' in curso)
+print ('Python' in curso)
