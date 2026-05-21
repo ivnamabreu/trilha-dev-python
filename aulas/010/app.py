@@ -7,7 +7,7 @@ print(y)
 print(a)
 print(b)
 
-# A ordem das operações em Python segue a regra matemática:
+# A ordem das operações em Python segue a regra matemática (PENDAS):
 # Exponenciação: **
 # Multiplicação e divisão: *, /, //, %
 # Adição e subtração: +, -
