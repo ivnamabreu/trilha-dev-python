@@ -1,5 +1,5 @@
 esta_quente = False
-esta_frio = False
+esta_frio = True
 
 if esta_quente:
     print('O dia está quente.')
