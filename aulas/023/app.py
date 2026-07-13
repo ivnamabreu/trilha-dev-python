@@ -10,13 +10,16 @@
 # As chaves devem ser únicas
 # As chaves de um dicionário não podem se repetir.
 
-aluno = {
+alunos = {
     "nome": "Ana",
     "idade": 10,
     "matriculada": True
 }
-print(aluno["idade"])
-aluno["idade"] = 12
-print(aluno["idade"])
-aluno["turma"] = "A25"
-print(aluno["turma"])
+print(alunos["idade"])
+alunos["idade"] = 12
+print(alunos["idade"])
+alunos["turma"] = "A25"
+print(alunos["turma"])
+print(alunos)
+print(alunos.get('idade'))
+print(alunos.get("ano", "4"))
